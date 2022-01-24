@@ -1,0 +1,165 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  position: relative;
+  width: 100%;
+  border-bottom: 1px solid rgb(230, 230, 230) /* plasmic-token: lSBqtYsyoIi */;
+}
+.rootglobal_theme_dark {
+  border-bottom-color: rgb(48, 48, 48) /* plasmic-token: KeOxPMSVpSk */;
+}
+.freeBox__czgC6 {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+.checkbox {
+  display: block;
+  position: relative;
+  width: 30px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  height: 30px;
+  align-self: auto;
+  border-radius: 100px;
+  border: 1px solid rgb(230, 230, 230) /* plasmic-token: 8u_9daJ6P1G */;
+}
+.checkboxstate_checked_global_theme_dark {
+  border-color: rgb(79, 79, 79) /* plasmic-token: 4fx8x0rDdya */;
+}
+.img {
+  display: flex;
+  width: auto;
+  height: 16px;
+  position: absolute;
+  left: 11.5px;
+  top: 12px;
+}
+.imgstate_checked {
+  left: 3px;
+  top: 4px;
+  width: 23px;
+  height: 23px;
+}
+.freeBox__aNSs {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: space-evenly;
+  width: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100%;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-left: 15px;
+}
+.freeBoxstate_editing__aNSsWhz9X {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+.label {
+  position: relative;
+  width: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: auto;
+}
+.slotTargetChildren {
+  font-size: 24px;
+  color: rgb(83, 83, 83) /* plasmic-token: jMDpGp_V2MY */;
+}
+.slotTargetChildrenglobal_theme_dark {
+  color: rgb(234, 234, 234) /* plasmic-token: o2vuMG2Mzst */;
+}
+.slotTargetChildrenstate_checked {
+  color: rgb(230, 230, 230) /* plasmic-token: nUzoO7Renlv */;
+}
+.slotTargetChildrenstate_checked > .__wab_text,
+.slotTargetChildrenstate_checked > .__wab_slot-string-wrapper,
+.slotTargetChildrenstate_checked > .__wab_slot > .__wab_text,
+.slotTargetChildrenstate_checked > .__wab_slot > .__wab_slot-string-wrapper,
+.slotTargetChildrenstate_checked > .__wab_slot > .__wab_slot > .__wab_text,
+.slotTargetChildrenstate_checked
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper,
+.slotTargetChildrenstate_checked
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_text,
+.slotTargetChildrenstate_checked
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper {
+  text-decoration-line: line-through;
+}
+.slotTargetChildrenstate_checked_global_theme_dark {
+  color: rgb(79, 79, 79) /* plasmic-token: 4fx8x0rDdya */;
+}
+.textInput {
+  display: flex;
+}
+.textInputstate_editing {
+  font-size: 24px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  width: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100%;
+  box-shadow: inset 0px 0px 4px 2px rgba(0, 0, 0, 0.3);
+  background: rgba(255, 255, 255, 0);
+  border-color: rgb(119, 119, 119) /* plasmic-token: sEyYc08CJQl */;
+}
+.textInputstate_editing_global_theme_dark {
+  box-shadow: inset 0px 0px 4px 2px rgba(235, 245, 16, 0.46);
+  color: rgb(234, 234, 234) /* plasmic-token: o2vuMG2Mzst */;
+}
+.rootstate_editing .textInputstate_editing::placeholder {
+  color: rgb(230, 230, 230) /* plasmic-token: QubMrumsxcV */;
+}
+.rootstate_editing_global_theme_dark
+  .textInputstate_editing_global_theme_dark::placeholder {
+  color: rgb(79, 79, 79) /* plasmic-token: wFX8_MHrLIz */;
+  font-style: italic;
+}
+.freeBox___8NMzl {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.deleteBtn {
+  position: relative;
+  font-size: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  line-height: 1;
+  opacity: 0;
+}
+.root:hover .deleteBtn {
+  opacity: 0.5;
+  cursor: pointer;
+  border-width: 0px;
+}

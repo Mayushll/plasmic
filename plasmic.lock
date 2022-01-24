@@ -1,0 +1,73 @@
+{
+  "projects": [
+    {
+      "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "EmyFCAs1S4b",
+          "checksum": "50f01d0c135d7f9ad3aa0754487806bb"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "U01vc0v1uqG",
+          "checksum": "2a77c623327c074c9e2d15bff90ed94d"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "U01vc0v1uqG",
+          "checksum": "2a77c623327c074c9e2d15bff90ed94d"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "qBHZ0l6p80r",
+          "checksum": "12a26403485cc21941ecd93f9d0c573a"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "qBHZ0l6p80r",
+          "checksum": "12a26403485cc21941ecd93f9d0c573a"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "a4TRfTpZs29",
+          "checksum": "ecc99975049f7ad2d211b167e2d4b114"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "a4TRfTpZs29",
+          "checksum": "ecc99975049f7ad2d211b167e2d4b114"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "7l0PKcXgZTC",
+          "checksum": "5bd5f8c8a6d6756d08d4f278d106a773"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "7l0PKcXgZTC",
+          "checksum": "5bd5f8c8a6d6756d08d4f278d106a773"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "MdwZdGZHJ71",
+          "checksum": "060ba9fc79267cf91f1d3119865ac7fc"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "MdwZdGZHJ71",
+          "checksum": "060ba9fc79267cf91f1d3119865ac7fc"
+        },
+        {
+          "assetId": "thfgMRLdqoDfpJ3uRLRBfi",
+          "type": "projectCss",
+          "checksum": "0af4d20441706751a0238014ec4d363f"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "0.1.167"
+}

@@ -1,0 +1,179 @@
+{
+  "props": [
+    {
+      "name": "app bg",
+      "type": "color",
+      "value": "#ffffff",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "KKRvJpy7oFd"
+      }
+    },
+    {
+      "name": "app bg dark",
+      "type": "color",
+      "value": "rgb(34,34,34)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "M0UcOee3fzL"
+      }
+    },
+    {
+      "name": "border gray light",
+      "type": "color",
+      "value": "rgb(230,230,230)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "lSBqtYsyoIi"
+      }
+    },
+    {
+      "name": "border gray light dark",
+      "type": "color",
+      "value": "rgb(48,48,48)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "KeOxPMSVpSk"
+      }
+    },
+    {
+      "name": "footer-text",
+      "type": "color",
+      "value": "rgb(119,119,119)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "sEyYc08CJQl"
+      }
+    },
+    {
+      "name": "header",
+      "type": "color",
+      "value": "rgba(175,47,47,0.15)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "AX8SInSbt5d"
+      }
+    },
+    {
+      "name": "header dark",
+      "type": "color",
+      "value": "rgb(113,101,101)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "Oxd4Rb-AOK4"
+      }
+    },
+    {
+      "name": "input placeholder",
+      "type": "color",
+      "value": "rgb(230,230,230)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "6bnXUNczsLk"
+      }
+    },
+    {
+      "name": "page bg",
+      "type": "color",
+      "value": "rgb(245,245,245)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "OxcI3rrhZkr"
+      }
+    },
+    {
+      "name": "page bg dark",
+      "type": "color",
+      "value": "rgb(0,0,0)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "8Iv16Sj6trY"
+      }
+    },
+    {
+      "name": "placeholder",
+      "type": "color",
+      "value": "rgb(230,230,230)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "QubMrumsxcV"
+      }
+    },
+    {
+      "name": "placeholder-dark",
+      "type": "color",
+      "value": "rgb(79,79,79)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "wFX8_MHrLIz"
+      }
+    },
+    {
+      "name": "task-text",
+      "type": "color",
+      "value": "rgb(83,83,83)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "jMDpGp_V2MY"
+      }
+    },
+    {
+      "name": "task-text-dark",
+      "type": "color",
+      "value": "rgb(234,234,234)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "o2vuMG2Mzst"
+      }
+    },
+    {
+      "name": "task-text-dim",
+      "type": "color",
+      "value": "rgb(230,230,230)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "nUzoO7Renlv"
+      }
+    },
+    {
+      "name": "task-text-dim-dark",
+      "type": "color",
+      "value": "rgb(79,79,79)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "4fx8x0rDdya"
+      }
+    },
+    {
+      "name": "unselected chevron",
+      "type": "color",
+      "value": "rgb(230,230,230)",
+      "category": "color",
+      "meta": {
+        "projectId": "thfgMRLdqoDfpJ3uRLRBfi",
+        "id": "8u_9daJ6P1G"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
