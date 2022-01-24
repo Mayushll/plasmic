@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plasmic/static/css/main.8b50b6d2.css",
+    "main.js": "/plasmic/static/js/main.418cce60.js",
+    "static/js/787.af574c0c.chunk.js": "/plasmic/static/js/787.af574c0c.chunk.js",
+    "index.html": "/plasmic/index.html",
+    "main.8b50b6d2.css.map": "/plasmic/static/css/main.8b50b6d2.css.map",
+    "main.418cce60.js.map": "/plasmic/static/js/main.418cce60.js.map",
+    "787.af574c0c.chunk.js.map": "/plasmic/static/js/787.af574c0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b50b6d2.css",
+    "static/js/main.418cce60.js"
+  ]
+}
